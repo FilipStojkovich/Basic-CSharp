@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\bin\Debug\net6.0\SEDC.Homework_2..exe
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\bin\Debug\net6.0\SEDC.Homework_2..deps.json
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\bin\Debug\net6.0\SEDC.Homework_2..runtimeconfig.json
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\bin\Debug\net6.0\SEDC.Homework_2..dll
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\bin\Debug\net6.0\SEDC.Homework_2..pdb
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..AssemblyInfo.cs
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..dll
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\refint\SEDC.Homework_2..dll
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..pdb
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\SEDC.Homework_2..genruntimeconfig.cache
+C:\Users\Filip\Desktop\Homework-02\SEDC.Homework_2\SEDC.Homework_2\obj\Debug\net6.0\ref\SEDC.Homework_2..dll
