@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\bin\Debug\net6.0\SEDC.ClassExercises.exe
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\bin\Debug\net6.0\SEDC.ClassExercises.deps.json
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\bin\Debug\net6.0\SEDC.ClassExercises.runtimeconfig.json
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\bin\Debug\net6.0\SEDC.ClassExercises.dll
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\bin\Debug\net6.0\SEDC.ClassExercises.pdb
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.dll
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\refint\SEDC.ClassExercises.dll
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.pdb
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\SEDC.ClassExercises.genruntimeconfig.cache
+C:\Users\Filip\Desktop\Homework-03\SEDC.ClassExercises\SEDC.ClassExercises\obj\Debug\net6.0\ref\SEDC.ClassExercises.dll
