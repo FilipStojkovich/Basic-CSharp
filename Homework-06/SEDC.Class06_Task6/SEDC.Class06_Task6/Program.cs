@@ -46,7 +46,6 @@ internal class Program
                     customers[i].CashDeposit(userInputDepositMoney);
                     break;
                 }
-                Console.ReadLine();
             }
             else if(i == customers.Length - 1)
             {
