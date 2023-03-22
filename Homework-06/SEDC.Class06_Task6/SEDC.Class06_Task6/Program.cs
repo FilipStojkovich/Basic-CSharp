@@ -61,14 +61,25 @@ internal class Program
 
                     Console.WriteLine("Please enter the amount of money on this card(max 10000)");
                     int userInputMoneyAmountOnCard = int.Parse(Console.ReadLine());
-
-                    customers = new Customers[]
+                    
+                    if(userInputMoneyAmountOnCard > 10000) 
                     {
-                        new Customers(userInputFullName, userInputCardNumber, userInputPin, userInputMoneyAmountOnCard)
-                    };
-
-                    Console.WriteLine($"Hello there {userInputFullName}. Glad to have you on the app!\nYou can now withdraw money from our ATM's! You have {userInputMoneyAmountOnCard} $$ on your card!");
-                    break;
+                        Console.WriteLine("Sorry, the maximum amount is 10000$");
+                    }
+                    else if(userInputMoneyAmountOnCard <= 10000) 
+                    {                        
+                        customers = new Customers[]
+                        {
+                            new Customers(userInputFullName, userInputCardNumber, userInputPin, userInputMoneyAmountOnCard)
+                        };
+                    
+                        Console.WriteLine($"Hello there {userInputFullName}. Glad to have you on the app!\nYou can now withdraw money from our ATM's! You have {userInputMoneyAmountOnCard} $$ on your card!");
+                        break;
+                    }
+                    else 
+                    {
+                        Console.WriteLine("Please enter the amount of money!");
+                    }    
                 }
                 else
                 {
